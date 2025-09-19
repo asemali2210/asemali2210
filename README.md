@@ -1,7 +1,7 @@
 <!-- Profile README -->
 <p align="center">
   <!-- Header banner -->
-  <img src="./header.png" alt="Front-End Development — Asem Ali" width="100%" />
+  <img src="/header-img.png" alt="Front-End Development — Asem Ali" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Asem Ali :wave:</h1>
