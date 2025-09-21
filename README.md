@@ -37,8 +37,7 @@
   &nbsp;
   <img alt="Sass/SCSS" title="Sass/SCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="28" />
   &nbsp;
-  <img alt="Strapi" title="Strapi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" height="28" />
-  &nbsp;
+  
   <img alt="Pug" title="Pug (PugJS)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-original.svg" height="28" />
 </p>
 
