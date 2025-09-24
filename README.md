@@ -59,7 +59,7 @@
 - :briefcase: Freelance & remote inquiries → <a href="mailto:asemali2210@gmail.com">asemali2210@gmail.com</a>
 
 ### :speech_balloon: Fun
-- :coffee: Coffee tinkerer — dialing in shots between commits  
+- :coffee: Coffee  — dialing in shots between commits  
 - :chess_pawn: Chess — pattern recognition meets UI logic  
 - :soccer: Football — teamwork & fast iterations  
 - :man_technologist: Ardent coder — ship → refactor → ship
